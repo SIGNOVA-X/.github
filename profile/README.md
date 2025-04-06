@@ -268,25 +268,26 @@ Here are some of the innovations and enhancements we plan to bring in future ver
 <h3 align="center">App Demo</h3>
 
 <p align="center">
-  <img src="assets/gifs/splash_screen.gif" alt="Sign Up" width="200"/>
-  <img src="assets/gifs/landing_page.gif" alt="Home" width="200"/>
-  <img src="assets/gifs/sign_up.gif" alt="Split Screen" width="200"/>
-  <img src="assets/gifs/login_screen.gif" alt="Chatbot" width="200"/>
+  <img src="assets/gifs/images/9.jpeg" alt="Sign Up" width="200"/>
+  <img src="assets/gifs/images/10.jpeg" alt="Home" width="200"/>
+  <img src="assets/gifs/images/8.jpeg" alt="Split Screen" width="200"/>
+  <img src="assets/gifs/images/6.jpeg" alt="Chatbot" width="200"/>
 </p>
 
 ---
 <p align="center">
-  <img src="assets/gifs/audio_to_sign.gif" alt="Sign Up" width="200"/>
-  <img src="assets/gifs/audio_to_text.gif" alt="Home" width="200"/>
-  <img src="assets/gifs/sign_to_text.gif" alt="Split Screen" width="200"/>
-  <img src="assets/gifs/community_page.gif" alt="" width="200"/>
+  <img src="assets/gifs/images/12.jpg" alt="Sign Up" width="200"/>
+  <img src="assets/gifs/images/2.jpeg" alt="Home" width="200"/>
+  <img src="assets/gifs/images/5.jpeg" alt="Split Screen" width="200"/>
+  <img src="assets/gifs/images/1.jpeg" alt="" width="200"/>
 </p>
 
 ---
 <p align="center">
-  <img src="assets/gifs/customize_avatar.gif" alt="Sign Up" width="200"/>
-  <img src="assets/gifs/chatbot.gif" alt="Home" width="200"/>
-  <img src="assets/gifs/profile_page_final-ezgif.com-video-to-gif-converter.gif" alt="Split Screen" width="200"/>
+  <img src="assets/gifs/images/4.jpeg" alt="Sign Up" width="200"/>
+  <img src="assets/gifs/images/13.jpg" alt="Home" width="200"/>
+  <img src="assets/gifs/images/3.jpeg" alt="Split Screen" width="200"/>
+  <img src="assets/gifs/images/7.jpeg" alt="Split Screen" width="200"/>
 </p>
 
 ---
