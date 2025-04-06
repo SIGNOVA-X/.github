@@ -14,10 +14,10 @@ SignovaX empowers users to communicate, connect, and live with confidence, knowi
 
 ## 👥 Contributors
 
-- [Disha Dwivedi](#https://github.com/Dis1309)
-- [Vanshika Malik](#https://github.com/Vanshika-Malik2004)
-- [Manroop Kaur](#https://github.com/manroop04)
-- [Jyothika P. Bojja](#https://github.com/Jyothika-P)
+- [Disha Dwivedi](https://github.com/Dis1309)
+- [Vanshika Malik](https://github.com/Vanshika-Malik2004)
+- [Manroop Kaur](https://github.com/manroop04)
+- [Jyothika P. Bojja](https://github.com/Jyothika-P)
 
 ---
 
@@ -55,12 +55,13 @@ WHO predicts that by 2050, 1 in 4 people will have hearing problems.
 **Insights from Quora:**
 We also turned to public platforms like Quora to listen, observe, and learn from real experiences shared by the deaf and mute community and their caregivers.
 
-<img src="assets/quora1.png" alt="Quora research 1" width="500" height="400"/>
-<img src="assets/quora2.png" alt="Quora research 2" width="500" height="400"/>
+![Quora research 1](assets/quora1.png)
+![Quora research 2](assets/quora2.png)
 
-Beyond the numbers, we also reached out to NGOs and individuals facing these challenges firsthand. Their stories and struggles shaped our vision, helping us design something truly impactful.
 
-(Image with sansthan)
+Beyond the numbers, we also reached out to individuals facing these challenges firsthand. Their stories and struggles shaped our vision, helping us design something truly impactful.
+
+![Research photo](assets/research.jpg)
 
 And that’s how SignovaX was born—a step towards an inclusive world where communication is a right, not a privilege.
 
@@ -267,6 +268,4 @@ Here are some of the innovations and enhancements we plan to bring in future ver
 > "Building the future with the power of **Google**."
    SignovaX was made possible by harnessing a wide range of powerful tools and platforms offered by Google. Each technology played a vital role in bringing our vision to life:
 
-   <img src="assets/google.png" alt="google-techstack" width="500" height="400"/>
-
-
+  ![Google Techstack](assets/google.png)
