@@ -263,9 +263,41 @@ Here are some of the innovations and enhancements we plan to bring in future ver
 
 ---
 
+ ## Preview of the Application
+  
+<h3 align="center">App Demo</h3>
+
+<p align="center">
+  <img src="assets/gifs/splash_screen.gif" alt="Sign Up" width="200"/>
+  <img src="assets/gifs/landing_page.gif" alt="Home" width="200"/>
+  <img src="assets/gifs/sign_up.gif" alt="Split Screen" width="200"/>
+  <img src="assets/gifs/login_screen.gif" alt="Chatbot" width="200"/>
+</p>
+
+---
+<p align="center">
+  <img src="assets/gifs/audio_to_sign.gif" alt="Sign Up" width="200"/>
+  <img src="assets/gifs/audio_to_text.gif" alt="Home" width="200"/>
+  <img src="assets/gifs/sign_to_text.gif" alt="Split Screen" width="200"/>
+  <img src="assets/gifs/community_page.gif" alt="" width="200"/>
+</p>
+
+---
+<p align="center">
+  <img src="assets/gifs/customize_avatar.gif" alt="Sign Up" width="200"/>
+  <img src="assets/gifs/chatbot.gif" alt="Home" width="200"/>
+  <img src="assets/gifs/profile_page_final-ezgif.com-video-to-gif-converter.gif" alt="Split Screen" width="200"/>
+</p>
+
+---
+
 ## 🚀 Google Tech Used
 
 > "Building the future with the power of **Google**."
    SignovaX was made possible by harnessing a wide range of powerful tools and platforms offered by Google. Each technology played a vital role in bringing our vision to life:
 
   ![Google Techstack](assets/google.png)
+
+
+
+
