@@ -46,7 +46,7 @@ It all started with someone close to our team—one of our teammate’s relative
 
 To understand the depth of the issue, we conducted research and came across alarming statistics from the WHO 2025 report:
 
->- **70 million** people worldwide are deaf-mute
+- **70 million** people worldwide are deaf-mute
 
 - **360 million** people worldwide are deaf, including 32 million children
 
@@ -54,6 +54,9 @@ WHO predicts that by 2050, 1 in 4 people will have hearing problems.
 
 **Insights from Quora:**
 We also turned to public platforms like Quora to listen, observe, and learn from real experiences shared by the deaf and mute community and their caregivers.
+
+<img src="assets/quora1.png" alt="Quora research 1" width="500" height="400"/>
+<img src="assets/quora2.png" alt="Quora research 2" width="500" height="400"/>
 
 Beyond the numbers, we also reached out to NGOs and individuals facing these challenges firsthand. Their stories and struggles shaped our vision, helping us design something truly impactful.
 
@@ -263,5 +266,7 @@ Here are some of the innovations and enhancements we plan to bring in future ver
 
 > "Building the future with the power of **Google**."
    SignovaX was made possible by harnessing a wide range of powerful tools and platforms offered by Google. Each technology played a vital role in bringing our vision to life:
+
+   <img src="assets/google.png" alt="google-techstack" width="500" height="400"/>
 
 
